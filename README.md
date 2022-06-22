@@ -19,18 +19,18 @@ Note that data should be stored into persistent storage. Feel free to choose the
 
 **System Requirements:** <br />
 Your implementation, <br />
-•	Should use proper data structures and algorithms <br />
-•	Should have the basic business rule validations and error handlings <br />
-•	Should have unit testing <br />
-•	Should be of production quality <br />
-•	Should be containerized <br />
+*	Should use proper data structures and algorithms <br />
+*	Should have the basic business rule validations and error handlings <br />
+*	Should have unit testing <br />
+*	Should be of production quality <br />
+*	Should be containerized <br />
 
 **Assignment considerations and evaluation:**  <br />
-•	API design <br />
-•	Code quality <br />
-•	Best design and coding practices <br />
-•	Test coverage <br />
-•	Extensibility <br />
+*	API design <br />
+*	Code quality <br />
+*	Best design and coding practices <br />
+*	Test coverage <br />
+*	Extensibility <br />
 
 **Technology stack:** <br />
 .Net Core
