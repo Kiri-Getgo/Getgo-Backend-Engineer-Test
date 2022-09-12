@@ -17,13 +17,13 @@ You are required to implement API endpoints for following functionality:<br />
 
 Note that data should be stored into persistent storage. Feel free to choose the persistence storage. 
 
-**System Requirements:** <br />
+**System c:** <br />
 Your implementation, <br />
 *	Should use proper data structures and algorithms <br />
 *	Should have the basic business rule validations and error handlings <br />
 *	Should have unit testing <br />
 *	Should be of production quality <br />
-*	Should be containerized <br />
+*	Prefer container based solution <br />
 
 **Assignment considerations and evaluation:**  <br />
 *	API design <br />
