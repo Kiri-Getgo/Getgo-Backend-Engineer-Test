@@ -17,7 +17,7 @@ You are required to implement API endpoints for following functionality:<br />
 
 Note that data should be stored into persistent storage. Feel free to choose the persistence storage. 
 
-**System c:** <br />
+**System Requirements:** <br />
 Your implementation, <br />
 *	Should use proper data structures and algorithms <br />
 *	Should have the basic business rule validations and error handlings <br />
