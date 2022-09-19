@@ -13,6 +13,8 @@ You are required to implement API endpoints for following functionality:<br />
 3.	Book a car <br />
 4.	Reach Car's home-lot <br />
 
+**Note:** -2,147,483,647 < XY axis <= 2,147,483,647
+
 [Feel free to decide the payload of each endpoint]
 
 Note that data should be stored into persistent storage. Feel free to choose the persistence storage. 
